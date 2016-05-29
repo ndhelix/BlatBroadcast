@@ -1,0 +1,1 @@
+G:\F_DRIVE\PROGRAMS\blat\blat.exe H:\G\Messages\broadcast\160226\conc.htm  -subject "20 февраля 19:00 -- Московская консерватория, зал Мясковского МУЗЫКАЛЬНАЯ КУЛЬТУРА" -u h1.ru -pw 475054814451 -bf H:\G\mmosh\messages\broadcast\tf.txt -replyto mm@yandex.ru -from mm@yandex.ru -charset windows-1251

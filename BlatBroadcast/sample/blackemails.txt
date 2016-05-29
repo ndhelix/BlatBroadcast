@@ -1,0 +1,5 @@
+lot@smtp.vfu.bg
+mailer-daemon@vfu.bg
+unos@vfu.bg
+2530f26e3abc@starlink.ru
+postmaster@mdn.ru
